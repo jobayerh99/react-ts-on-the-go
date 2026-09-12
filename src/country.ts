@@ -11,5 +11,11 @@ export interface CountryType{
             png: string,
             alt: string
         }
+    },
+    capital:{
+        capital:string
+    }
+    population:{
+        population:number
     }
 }
